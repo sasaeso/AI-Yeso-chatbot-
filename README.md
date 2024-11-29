@@ -1,16 +1,27 @@
-##Overview
-This project provides an interactive chatbot UI where users can type messages, send them, and receive replies. The interface is designed to be minimalist and user-friendly with easy access to emoji selection and file uploads.
+## AI Yeso chatbot
 
-##Features
- Users can interact with a chatbot with a friendly interface.
- Users can select and insert emojis into the chat.
- Allows users to upload image files.
- The chatbot adjusts to different screen sizes for better usability on mobile devices.
- For sending messages, uploading files, and toggling emojis.
- Solving math equation 
- Answerwing every question
+This project is a chatbot interface designed to facilitate user interaction with a bot. It is easy, can be used by any one. 
 
-##Technologies Used
-HTML: For the structure of the chatbot interface.
-CSS: For styling the chatbot and the page.
-JavaScript: For interactive features such as handling messages, showing emojis, and file uploads.
+---
+
+## Features
+
+ -A simple UI that allows users to send and receive messages.
+ -Users can select and insert emojis into their messages for better engagement.
+ -Users can upload image files directly through the chatbot.
+ -Optimized for mobile and desktop devices.
+ -Includes buttons for sending messages, uploading files, and selecting emojis.
+ -solving math equations.
+
+---
+
+## Technologies Used
+
+- **HTML**: Used for the structure of the chatbot interface.
+- **CSS**: For styling the chatbot elements and page layout.
+- **JavaScript**: Provides functionality for sending messages, toggling emojis, and handling file uploads.
+
+
+---
+## Made by 
+-Mostafa Ashraf

@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Hale",
+			"path": ".."
+		},
+		{
+			"name": "images",
+			"path": "F:/2/weather-app-img/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Hale"
+	}
+}
